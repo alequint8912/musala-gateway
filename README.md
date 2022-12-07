@@ -6,7 +6,7 @@ To install all dependencies
 
 `yarn` or `npm install`
 
-The storage is an external mongodb database
+The storage is an external mongodb database. POSTMAN files are included in postman folder
 
 ## Run
 To run the REST API
